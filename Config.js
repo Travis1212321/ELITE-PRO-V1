@@ -3,14 +3,14 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 // Contact details
-global.ytname = process.env.YT_NAME || "YT: @EliteProTech";
-global.socialm = process.env.SOCIAL_M || "GitHub: EliteProTech";
+global.ytname = process.env.YT_NAME || "YT: @𝐎𝐓𝐓𝐎² • اوتـــــو";
+global.socialm = process.env.SOCIAL_M || "GitHub: 𝐎𝐓𝐓𝐎² • اوتـــــو";
 global.location = process.env.LOCATION || "Nigeria, Port Harcourt";
 
 // Creator details
-global.ownernumber = process.env.OWNER_NUMBER || '2348109263390';
-global.ownername = process.env.OWNER_NAME || 'ElitePro';
-global.botname = process.env.BOT_NAME || 'ELITE-PRO-V1';
+global.ownernumber = process.env.OWNER_NUMBER || '249126083647';
+global.ownername = process.env.OWNER_NAME || '𝐎𝐓𝐓𝐎² • اوتـــــو';
+global.botname = process.env.BOT_NAME || '𝑶𝑻𝑻𝑶-𝑩𝑶𝑻-𝑴𝑫';
 
 // Default settings 
 global.prefix = process.env.PREFIX || '.';
@@ -34,15 +34,15 @@ global.themeemoji = process.env.THEME_EMOJI || '👨‍💻';
 
 // Sticker details
 global.packname = process.env.PACKNAME || 'Sticker By';
-global.author = process.env.AUTHOR || 'ELITEPRO\n\nContact: +2348109263390';
+global.author = process.env.AUTHOR || 'ELITEPRO\n\nContact: +249126083647';
 // Default settings 2
 global.typemenu = process.env.TYPE_MENU || 'v2';
-global.wm = process.env.WM || "Youtube @EliteProTech";
-global.link = process.env.LINK || 'https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g';
+global.wm = process.env.WM || "Youtube @AmrowKhalid";
+global.link = process.env.LINK || 'https://chat.whatsapp.com/JzkbA8S0gtLL11119JgmsK';
 
 // Text bug
 global.xbugtex = {
-    xtxt: '👨‍💻ELITE-PRO👨‍💻',
+    xtxt: '𝑶𝑻𝑻𝑶-𝑩𝑶𝑻-𝑴𝑫',
 };
 
 // Reply messages
